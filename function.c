@@ -11,4 +11,5 @@ int main()
   scanf("%d%d",&a,&b);
   result=sum(a,b);
   printf("Sum =%d",result);
+  printf("congress!you successfully finish your code");
 }
